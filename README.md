@@ -1,4 +1,2 @@
 # Sql simple database example 
-Project : Shopping database
-          Uses program : MS Sql Server
- 
+SQL Simple Database Example - A shopping database project created using MS SQL Server.
